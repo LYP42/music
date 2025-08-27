@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/new/prefix1"/>
+    <qresource prefix="/">
+        <file>icon/beijin.jpg</file>
+        <file>icon/music.png</file>
+        <file>icon/next.png</file>
+        <file>icon/order.png</file>
+        <file>icon/play.png</file>
+        <file>icon/prev.png</file>
+        <file>icon/random.png</file>
+        <file>icon/stop.png</file>
+        <file>icon/single.png</file>
+        <file>icon/m_music.png</file>
+        <file>icon/mao.gif</file>
+    </qresource>
+</RCC>
